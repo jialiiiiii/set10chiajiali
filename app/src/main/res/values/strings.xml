@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">set10chiajiali</string>
+
+    <string name="text_title">Jabatan Pendaftaran Negara\nMalaysia Passport Fee Checking System</string>
+    <string name="text_input_name">Enter your name:</string>
+    <string name="text_name">Name</string>
+    <string name="text_select_citizen">Select your citizenship:</string>
+    <string name="text_submit">Submit</string>
+    <string name="text_email">Email Us</string>
+    <string name="text_call">Call Us</string>
+    <string-array name="citizen_selection">
+        <item>Senior citizens</item>
+        <item>Children below 12</item>
+        <item>Haj pilgrims</item>
+        <item>Students below 21 and studying abroad</item>
+        <item>Disabled</item>
+        <item>Others</item>
+    </string-array>
+</resources>
